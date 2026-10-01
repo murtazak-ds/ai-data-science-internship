@@ -1,0 +1,16 @@
+Image,Detected Class,Confidence,Inference Time (ms)
+IMAGE 2.jpg,elephant,0.9202,190.67
+IMAGE 2.jpg,elephant,0.9084,190.67
+IMAGE 2.jpg,elephant,0.9048,190.67
+IMAGE 3.jpg,bear,0.5628,190.67
+IMAGE1.jpg,bus,0.4132,190.67
+IMAGE1.jpg,car,0.3451,190.67
+images 3.jpg,person,0.8509,190.67
+images 4.jpg,person,0.8935,190.67
+images 4.jpg,surfboard,0.3304,190.67
+images 4.jpg,bowl,0.2951,190.67
+images 5.jpg,person,0.9101,190.67
+images 6.jpg,apple,0.8717,190.67
+images 6.jpg,bowl,0.3735,190.67
+images 7.jpg,No detection,,190.67
+images.jpg,car,0.8003,190.67
